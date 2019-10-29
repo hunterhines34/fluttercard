@@ -1,6 +1,6 @@
-# netninja
+# Flutter
 
-TheNetNinja Flutter Tutorials
+A simple iOS/Android app that shows how the "Stateful" widget works in Flutter. 
 
 ## Getting Started
 
